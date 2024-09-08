@@ -42,9 +42,9 @@
 
 ### Как со мной связаться:
 
-- **Email**: [your-email@example.com](mailto:vvedenskii2005@gmail.com)
-- **LinkedIn**: [Ваш профиль](https://www.linkedin.com)
-- **GitHub**: [Ваш профиль на GitHub](https://github.com/stxreocoma)
+- **Email**: [vvedenskii2005@gmail.com](mailto:vvedenskii2005@gmail.com)
+- **LinkedIn**: [stxrecoma](https://www.linkedin.com)
+- **GitHub**: [stxreocoma](https://github.com/stxreocoma)
 
 ### Полезные ресурсы, которые я использую:
 

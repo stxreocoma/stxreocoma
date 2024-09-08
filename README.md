@@ -43,7 +43,7 @@
 ### Как со мной связаться:
 
 - **Email**: [vvedenskii2005@gmail.com](mailto:vvedenskii2005@gmail.com)
-- **LinkedIn**: [stxrecoma](https://www.linkedin.com)
+- **LinkedIn**: [stxreocoma](https://www.linkedin.com)
 - **GitHub**: [stxreocoma](https://github.com/stxreocoma)
 
 ### Полезные ресурсы, которые я использую:

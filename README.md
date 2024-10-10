@@ -50,16 +50,6 @@
   - JWT для авторизации
 - **Репозиторий**: [TODO Сайт](https://github.com/stxreocoma/todo)
 
-#### 2. **API-сервис для работы с пользователями**
-   - **Описание**: Реализовал REST API для управления пользователями с возможностью создания, обновления, удаления и получения данных.
-   - **Технологии**: Go, PostgreSQL, Docker, Gin, GORM.
-   - [Репозиторий проекта](https://github.com/your-username/user-api)
-
-#### 3. **Чат-приложение на основе WebSockets**
-   - **Описание**: Реализовал многопользовательский чат с использованием WebSockets для реального времени.
-   - **Технологии**: Go, WebSockets, Docker.
-   - [Репозиторий проекта](https://github.com/your-username/chat-app)
-
 ### Как со мной связаться:
 
 - **Email**: [vvedenskii2005@gmail.com](mailto:vvedenskii2005@gmail.com)

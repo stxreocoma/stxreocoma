@@ -1,13 +1,13 @@
 <h1 align="center">Hey there, I'm Gleb 👋</h1>
 <p align="center">
-  <em>Backend & Database Engineer</em>
+  <em>Backend & Data Engineer</em>
 </p>
 
 ---
 
 ### 🚀 About Me
 - 📍 Living in Moscow, crafting backend systems & tuning databases  
-- 💼 Database Engineer @ Rosatom (Prisma division)  
+- 💼 Data Engineer @ Rosatom (Prisma division)  
 - 🔥 Passionate about high-load systems, distributed architectures & database optimization  
 - 🧠 Currently exploring Rust & Web3  
 - 📫 Reach me: [vvedenskii2005@gmail.com](mailto:vvedenskii2005@gmail.com) | [Telegram](https://t.me/stxreocoma)  
